@@ -11,7 +11,7 @@ Servo motor coordination for multi‑axis movement
 
 Automated motion sequences triggered through programmed routines
 
-Microcontroller‑based control system (Arduino and protoboard)
+Microcontroller‑based control system (Raspberry pi pico originally arduino uno)
 
 Calibration and tuning for smooth, consistent operation
 
